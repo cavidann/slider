@@ -1,0 +1,36 @@
+.main{
+    position: relative;
+}
+img{
+    width:100%;
+}
+.s, .a{
+    position: absolute;
+    top: 40%;
+    font-size: 70px; 
+    text-decoration: none;
+}
+a{
+    text-decoration: none;
+    color: gray;
+}
+.a{
+    right: 0px;
+}
+button{
+    background: transparent;
+    border: transparent;
+}
+
+.d{
+    position: absolute;
+    bottom: 10px;
+   right: 50%;
+}
+.daire{
+    width: 30px;
+    height: 30px;
+    border: 1px gray solid;
+    border-radius: 50%; 
+    float: left;  
+}
